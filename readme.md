@@ -8,7 +8,7 @@
 
 > The perfect starter kit for building websites with Next.js and Notion.
 
-[![Build Status] [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
+[![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 ## Intro
 
@@ -185,6 +185,4 @@ This table of contents uses the same logic that Notion uses for its built-in Tab
 
 ## License
 
-MIT © [Travis Fischer](https://transitivebullsh.it)
-
-Support my open source work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
+MIT © [SoftGiant-nICE](https://github.com/softgiant-nICE)
